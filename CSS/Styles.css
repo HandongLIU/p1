@@ -1,0 +1,350 @@
+/* Styles.css */
+
+/* Resetting default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Setting default font and background */
+body, html {
+  font-family: 'Roboto Slab', serif;
+  background: #ffffff;
+  color: #333;
+  line-height: 1.6;
+}
+
+.image-container {
+  position: relative;
+  text-align: center; /* Center the text */
+}
+
+.image-container img {
+  max-width: auto; 
+  height: 900px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 50%; /* Adjust this value as needed */
+  left: 50%;
+  transform: translate(-50%, -50%); /* Center the overlay */
+  color: #fff; /* White text */
+}
+
+/* Heading style */
+.overlay h1 {
+  margin-bottom: 0.5em;
+  font-size: 4em; /* Example size, adjust as needed */
+  color: #000;
+}
+
+/* Paragraph style */
+.overlay p {
+  margin-bottom: 1em;
+  color: #464646;
+}
+
+/* Call to action link style */
+.overlay .cta {
+  font-weight: bold;
+  color: #0071e3; /* Apple blue, for example */
+  text-decoration: none;
+}
+
+
+
+
+.image-container2 {
+  position: relative;
+  text-align: center; /* Center the text */
+}
+
+.image-container2 img {
+  max-width: auto; 
+  height: 900px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.overlay2 {
+  position: absolute;
+  top: 50%; /* Adjust this value as needed */
+  left: 50%;
+  transform: translate(-50%, -50%); /* Center the overlay */
+  color: #fff; /* White text */
+}
+
+/* Heading style */
+.overlay2 h1 {
+  margin-bottom: 0.5em;
+  font-size: 4em; /* Example size, adjust as needed */
+  color: #ffffff;
+}
+
+/* Paragraph style */
+.overlay2 p {
+  margin-bottom: 1em;
+  color: #c4740b;
+}
+
+/* Call to action link style */
+.overlay2 .cta2 {
+  font-weight: bold;
+  color: #0071e3; /* Apple blue, for example */
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+.About-img-container img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  display: block;
+  
+}
+
+.overlay4 {
+  position: absolute;
+  top: 50%; /* Adjust this value as needed */
+  left: 50%;
+  transform: translate(-50%, -50%); /* Center the overlay */
+  color: #fff; /* White text */
+}
+
+/* Heading style */
+.overlay4 h1 {
+  margin-bottom: 0.5em;
+  font-size: 4em; /* Example size, adjust as needed */
+  color: #ffffff
+}
+
+/* Paragraph style */
+.overlay4 p {
+  margin-bottom: 1em;
+  color: #ffffff;
+}
+
+/* Call to action link style */
+.overlay4 .cta2 {
+  font-weight: bold;
+  color: #0071e3; /* Apple blue, for example */
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Contact img {
+  max-width: auto; 
+  height: 900px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.overlay3 {
+  position: absolute;
+  top: 50%; /* Adjust this value as needed */
+  left: 50%;
+  transform: translate(-50%, -50%); /* Center the overlay */
+  color: #fff; /* White text */
+}
+
+/* Heading style */
+.overlay3 h1 {
+  margin-bottom: 0.5em;
+  font-size: 4em; /* Example size, adjust as needed */
+  color: #000;
+}
+
+/* Paragraph style */
+.overlay3 p {
+  margin-bottom: 1em;
+  color: #464646;
+}
+
+
+
+
+
+
+
+.cake-interface {
+  width: 100vw; 
+  height: 80vh;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+/* Container for all elements */
+#container {
+  margin: 0 auto;
+  padding: 10px;
+}
+
+/* Header styles */
+header {
+  background: #fff;
+  padding: 10px 0;
+  border-bottom: 1px solid #7c7c7c;
+  text-align: center;
+}
+
+header img {
+  width: 50px;
+  height: 50px;
+}
+
+/* Navigation styles */
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: #ffffff; /* Pure white background */
+  display: flex;
+  justify-content: center; /* Centering the navigation items */
+  align-items: center; /* Aligning items vertically */
+  padding: 10px 20px;
+}
+
+nav .mobile-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  margin-right: 20px;
+}
+
+nav a {
+  color: #333; /* Black color for the text */
+  text-decoration: none; /* No underline */
+  padding: 10px 15px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px; /* Matching Apple's font size */
+  font-weight: 400; /* Regular font weight */
+}
+
+nav img {
+  height: 50px; /* Adjust the size as needed */
+}
+
+nav a:hover {
+  color: #1a1a1a;
+}
+
+/* Hamburger menu icon */
+.menu-icon div {
+  cursor: pointer;
+  font-size: 2em;
+}
+
+/* Main content styles */
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+}
+
+main img {
+  max-width: 50%;
+  height: auto;
+  object-fit: cover;
+  margin: 0px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; 
+  align-items: stretch; 
+  gap: 20px; 
+}
+
+.Cake {
+  flex: 0 0 calc(50% - 20px);  
+  height: 700px;
+  object-fit: cover;
+  background-color: #fff;
+}
+
+
+
+
+/* Footer styles */
+footer {
+  flex: 0 0 calc(50% - 20px);
+  background: #fff;
+  text-align: center;
+  padding: 1px 0;
+  border-top: 1px solid #eaeaea;
+}
+
+footer p {
+  margin: 1px 0;
+}
+
+footer a {
+  color: #333;
+  text-decoration: none;
+}
+
+/* Media query for responsive design */
+@media (max-width: 768px) {
+  main {
+      flex-direction: column;
+  }
+  main img {
+    margin: 5px 0; 
+    width: 100%;
+  }
+  .Cake
+  {
+    flex-basis: 100%;
+    max-width: 100%;
+    margin: 0 0 20px 0;
+}
+}
