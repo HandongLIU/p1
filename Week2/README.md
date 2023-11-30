@@ -26,13 +26,10 @@ For the assignment in the second week, I chose to develop a cake website similar
 
 LinkedIn Learning Video I Learned Joomla
 YouTube Video I Learned Joomla
-https://youtu.be/h5VZwTLdgdM?si=nDElEE8L205fcfae
-__
-https://youtu.be/I0MBI9Qz-S0?si=r6WL4IZrByYbMC6h
-__
-https://youtube.com/playlist?list=PL43bbfiC0wjjkYBdmj0EXE95QmHej7ckU&si=X-PdInZ1xbwOL_Wu
-__
-https://youtube.com/playlist?list=PL0ICd6nDbkfbXOIEC4bBCK_iT3tRXb-AR&si=wSMj3gR8mw1FaVjC
+# https://youtu.be/h5VZwTLdgdM?si=nDElEE8L205fcfae
+# https://youtu.be/I0MBI9Qz-S0?si=r6WL4IZrByYbMC6h
+# https://youtube.com/playlist?list=PL43bbfiC0wjjkYBdmj0EXE95QmHej7ckU&si=X-PdInZ1xbwOL_Wu
+# https://youtube.com/playlist?list=PL0ICd6nDbkfbXOIEC4bBCK_iT3tRXb-AR&si=wSMj3gR8mw1FaVjC
 
 
 ## time
