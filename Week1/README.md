@@ -6,6 +6,9 @@ student Id  14123888
 
 ## introduce
 - This is a webpage about TimeCake startup company promotion and online ordering.
+- Showing the types of cakes
+- And supports online booking
+
 
 ## Featured Projects
 - The web page displays the product categories.
@@ -13,6 +16,7 @@ student Id  14123888
 
 ## about me
 - Contains detailed information about the company.
+- For example, ingredients, cakes can be customized, etc.
 
 ## contact information
 - Provide company contact information and email address
