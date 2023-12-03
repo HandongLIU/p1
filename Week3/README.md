@@ -25,7 +25,7 @@ For the assignment in the third week, because the assignment requirement is to m
 
 LinkedIn Learning Video I Learned WORDPRESS
 YouTube Video I Learned WORDPRESS
-
+- https://www.youtube.com/watch?v=O79pJ7qXwoE
 
 ## time
 I started learning WordPress through one-hour tutorials on LinkedIn and YouTube. After learning the WordPress interface and tools, I started building the website as described above. The development process lasted about a day. After the website was built, I also learned how to set it as the main interface.
