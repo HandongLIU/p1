@@ -71,4 +71,12 @@ Website Name: Craftify Main Goal: Create an open house website for James Cook Un
 Completed the a2 assignment, collaborated on the wordpress project, and created a LinkedIn profile.
 
 # Study Guide
-During this week’s study, I learned how to use LinkedIn and collaborated on a wordpress assignment
+- Through the successful implementation of this project, I gained valuable experience and insights on multiple levels of web development. This experience deepened my understanding of WordPress and allowed me to master every detail from content management to theme customization and plug-in integration. This not only improved my technical skills, but also taught me the importance of flexible tool selection based on project needs.
+
+- In the process of code development, I experienced an important growth process. My programming skills have improved significantly and I have explored in depth both front-end and back-end development. This experience particularly emphasized the importance of writing clean, efficient, and maintainable code. Through iterative development, I not only learned frequent commits and collaborative reviews of code, but also gained a deep understanding of version control and Git workflow.
+
+- Additionally, choosing the right hosting solution is key to project success. Now I understand better how important hosting is to website performance, scalability, and user experience. Evaluating different hosting options, understanding server configurations, and optimizing websites for speed and security have become core parts of my skill set.
+
+- Working with team members such as Zar Chi Oo, Myat Pwint Phyu and Kaung Sat Paing has been one of the most productive experiences on this project. They bring diverse skills and perspectives that make team collaboration more effective. This teamwork experience provides opportunities for effective communication, task distribution and mutual support in achieving project goals. It also highlights that successful web development relies not only on individual technical ability, but also on team collaboration and unity.
+
+- Overall, the project was an all-encompassing learning journey that touched on everything from technical knowledge to key decision-making. Not only did I expand my technical knowledge base, I also developed a deep understanding of the interrelationships between the various elements needed to make a web development project successful.
