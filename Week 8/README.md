@@ -31,7 +31,7 @@ I completed this project in one day, meeting for 2 hours, making ppt for 2 hours
 - [Individual_Linkedin](https://www.linkedin.com/in/handong-liu-282989278/details/projects/)
 
 # Website description
-Website Name: Craftify Main Goal: Create an open house website for James Cook University, Singapore SMART Goal:  
+Create an open house website for James Cook University, Singapore SMART Goal:  
 
 ##### Improve acceptance rate goals:
 
