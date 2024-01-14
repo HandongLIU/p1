@@ -5,7 +5,11 @@ James University ID: 14123888
 
 # learningjourney
 - Academic events and resources  
-This week I did part of the a2 homework, and I made the ppt part. My team members produced other parts, we used slack to communicate, and used trello to outline and record our discussions. Edited LinkedIn profile.  
+This week I did part of the a2 homework, and I made the ppt part. My team members produced other parts, we used slack to communicate, and used trello to outline and record our discussions. Edited LinkedIn profile.    
+I learned how to record videos using YouTube, how to use trello, and learned wordpress again.
+- https://www.youtube.com/watch?v=uL8BwstqiqE&t=1s
+- https://www.youtube.com/watch?v=yDlDdTp7p6Q
+- https://www.youtube.com/watch?v=s28x7sF3Ruc
   
 I completed this project in one day, meeting for 2 hours, making ppt for 2 hours, recording video for 2 hours, and making the web page for half a day.
 
